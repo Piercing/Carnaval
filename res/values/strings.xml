@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carnaval</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="registro_usuario">Registro Usuario</string>
+    <string name="mejor_chirigota">Mejor Chirigota</string>
+    <string name="mejor_canción">Mejor Canción</string>
+    <string name="mis_votaciones">Mis votaciones</string>
+    
+
+</resources>
